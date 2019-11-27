@@ -1,2 +1,1 @@
-# colorGame
-The Rgb color Game
+https://marianafrentsos.github.io/colorGame/
